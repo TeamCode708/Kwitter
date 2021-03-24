@@ -102,3 +102,7 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 .bg-image2 {
 	background-image: url("Gradient.png");
 }
+
+.bg-image3 {
+	background-image: url("Pink-Green.png");
+}
